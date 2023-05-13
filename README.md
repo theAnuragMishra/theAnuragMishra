@@ -7,8 +7,6 @@
 
 - 👨‍💻 My projects are available at [https://theanuragmishra.github.io/main](https://theanuragmishra.github.io/main)
 
-- 📝 I sometimes write articles on [https://thepcmblog.blogspot.com](https://thepcmblog.blogspot.com)
-
 - 💬 Ask me about **html, css, js, node, python**
 
 - 📫 Reach me here **yoiam420@gmail.com**
