@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently working on [Billingram](https://github.com/theAnuragMishra/billingram)
+- 🔭 I’m currently working on [Billingram](https://github.com/theAnuragMishra/currency-converter)
 
 - 🌱 I’m currently learning **tkinter library in python**
 
