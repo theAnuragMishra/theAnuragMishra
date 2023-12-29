@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **cpp**
 
-- 👨‍💻 My projects are available at [https://theanuragmishra.github.io/main](https://theanuragmishra.github.io/main)
-
 - 💬 Ask me about **wedev and cpp**
 
 - 📫 Reach me here **yoiam420@gmail.com**
