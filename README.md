@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anurag</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h1>Hi 👋, I'm Anurag</h1>
+<h3>A passionate full-stack developer</h3>
 
 - 🔭 Currently working on [mnnit-buzz](https://github.com/theAnuragMishra/mnnit-buzz)
-- 🌱 Currently learning **cpp**
-- 💬 Ask me about **wedev and cpp**
-- 📫 Reach me here **yoiam420@gmail.com**
+- 🌱 Currently learning Data Structures and Algorithms.
+- 💬 Ask me about web development, chess, and all things tech!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theanuragmishra&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
