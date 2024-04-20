@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on [mnnit-buzz](https://github.com/theAnuragMishra/mnnit-buzz)
 - 🌱 Currently learning Data Structures and Algorithms.
-- 💬 Ask me about web development, chess, and all things tech!
+- 💬 Ask me about chess, web development, and all things tech!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theanuragmishra&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
