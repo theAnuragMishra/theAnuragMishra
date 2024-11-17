@@ -1,8 +1,9 @@
 <h1>Hi 👋, I'm Anurag</h1>
+<h3>Newbie Rustacean, less newbie gopher</h3>
 <h3>Neovim btw</h3>
 
-- 🔭 Currently working on [mnnit-buzz](https://github.com/theAnuragMishra/mnnit-buzz)
-- 🌱 Currently learning Data Structures and Algorithms.
+- 🔭 working on [go-tour](https://go.dev/tour/)
+- 🌱 learning Data Structures and Algorithms.
 - 💬 Ask me about chess, web development, and all things tech!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theanuragmishra&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
