@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Anurag</h1>
 <h3>Newbie Rustacean, less newbie gopher</h3>
-<h2>Neovim btw</h2>
+<h4>Neovim btw</h4>
 
 - 🔭 working on [go-tour](https://go.dev/tour/)
 - 🌱 learning Data Structures and Algorithms.
