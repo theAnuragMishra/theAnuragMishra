@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Anurag</h1>
-<h3>A passionate full-stack developer</h3>
+<h3>Neovim btw</h3>
 
 - 🔭 Currently working on [mnnit-buzz](https://github.com/theAnuragMishra/mnnit-buzz)
 - 🌱 Currently learning Data Structures and Algorithms.
