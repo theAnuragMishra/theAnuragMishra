@@ -2,7 +2,7 @@
 <h3>Newbie Rustacean, less newbie Gopher</h3>
 <p>Neovim btw</p>
 
-- 🔭 working on [go-tour](https://go.dev/tour/)
+- 🔭 working on nothing.
 - 🌱 learning Data Structures and Algorithms.
 - 💬 Ask me about chess, web development, and all things tech!
 
