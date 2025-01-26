@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Anurag</h1>
-<h3>Newbie Rustacean, less newbie Gopher</h3>
+<h3>I know some Go and Rust :D</h3>
 <p>Neovim btw</p>
 
-- 🔭 working on [my blog](https://anurag-mishra.netlify.app).
+- 🔭 working on [mnnit chess club's official website](https://github.com/theanuragmishra/mnnit-chess-club).
 - 🌱 learning Data Structures and Algorithms.
 - 💬 Ask me about chess, web development, and all things tech!
 
