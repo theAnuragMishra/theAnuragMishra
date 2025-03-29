@@ -3,14 +3,13 @@
 <p>I love neovim because the keybindings are goated</p>
 <p>I also play chess :D</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theanuragmishra&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats for the interested :)](https://github-readme-stats.vercel.app/api?username=theanuragmishra&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My socials</h3>
 <p align="left">
 <a href="https://discord.gg/nhzEgqwBwp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nhzEgqwBwp" height="30" width="40" /></a>
-<a href="https://dev.to/theanuragmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="theanuragmishra" height="30" width="40" /></a>
 <a href="https://twitter.com/giuocopianosimp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="giuocopianosimp" height="30" width="40" /></a>
-<a href="https://instagram.com/the.anurag.mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.anurag.mishra" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/the.anurag.mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.anurag.mishra" height="30" width="40" /></a> -->
 <a href="https://www.youtube.com/@anuragmishrayt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anuragmishrayt" height="30" width="40" /></a>
 </p>
 <!-- <h3 align="left">I'm greedy</h3>
