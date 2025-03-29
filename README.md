@@ -3,7 +3,7 @@
 <p>I love neovim because the keybindings are goated</p>
 <p>I also play chess :D</p>
 
-[![My github stats for the interested :)](https://github-readme-stats.vercel.app/api?username=theanuragmishra&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theanuragmishra&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">My socials</h3>
 <p align="left">
