@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Anurag</h1>
-<h3>I know some Go and Rust :D</h3>
+<h3>I love writing frontend in svelte and apis in go.</h3>
 <p>Neovim btw</p>
 
 - 🔭 working on [mnnit chess club's official website](https://github.com/theanuragmishra/mnnit-chess-club).
