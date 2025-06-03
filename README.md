@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Anurag</h1>
-<h3>I write frontend in svelte and apis in go.</h3>
+<h3>India based programmer</h3>
 <p>Neovim btw</p>
 <p>I also play chess :D</p>
 
