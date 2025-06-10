@@ -1,9 +1,8 @@
 <!--<h1>Hi 👋, I'm Anurag</h1>-->
 <!--<h3>India based programmer</h3>-->
 <a href="https://anurag-mishra.netlify.app">My website</a>
-<p>Neovim btw</p>
-<p>I also play chess :D</p>
-
+<!--<p>Neovim btw</p>-->
+<!--<p>I also play chess :D</p>-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theanuragmishra&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">My socials</h3>
