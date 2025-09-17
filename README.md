@@ -1,5 +1,6 @@
 <!--<h1>Hi 👋, I'm Anurag</h1>-->
 <!--<h3>India based programmer</h3>-->
+I love writing software. Usually code in go and svlete. Learning kotlin now.
 [https://anurag-mishra.netlify.app](https://anurag-mishra.netlify.app)
 <!--<p>Neovim btw</p>-->
 <!--<p>I also play chess :D</p>-->
